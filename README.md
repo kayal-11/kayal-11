@@ -1,6 +1,6 @@
 # Hi 👋 I'm Kayalvizhi R
 
-Computer Science and Design Undergraduate | Full Stack Developer | AI/ML Enthusiast | AWS Certified Cloud Practitioner
+Computer Science and Design Undergraduate | Full-Stack Developer | AI/ML Enthusiast | Building Scalable Web Applications | AWS Certified Cloud Practitioner 
 
 
 ## 🌐 Socials:
